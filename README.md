@@ -10,17 +10,17 @@
 
 * 필요정보 : 출발정류장, 도착정류장, 버스 번호
 
-  
+<br>
 
 ### *일반버스
 
-  
+<br>
 
 #### 입력 예시
 
 - 한길육교에서 한빛마을 1단지 가는 1500번이랑 66번 92번 버스 언제 와?
 
-  
+<br>
 
 #### 1. 버스 도착 정보
 
@@ -30,7 +30,7 @@
 
 <img src="https://user-images.githubusercontent.com/46305309/65409667-3ff8c380-de23-11e9-91be-3cf188a169c2.jpg" alt="busby1" style="zoom: 25%;" />
 
-
+<br>
   
 #### 2. 빨리 오는 순으로 정렬
 
@@ -38,7 +38,7 @@
 
 <img src="https://user-images.githubusercontent.com/46305309/65411335-8cde9900-de27-11e9-810b-fc71a32b09b5.jpg" alt="busby3" style="zoom:25%;" />
 
-  
+<br>
 
 #### 3. 정류장에 도착예정인 모든 버스
 
@@ -46,7 +46,7 @@
 
 <img src="https://user-images.githubusercontent.com/46305309/65411372-a97ad100-de27-11e9-8dfe-73cd7239519a.jpg" alt="busby2" style="zoom:25%;" />
   
-
+<br>
 
 #### 4. 정거장 수
 
@@ -54,7 +54,7 @@
 
 <img src="https://user-images.githubusercontent.com/46305309/65411397-bc8da100-de27-11e9-8f99-3c9dc2861a6d.jpg" alt="busby4" style="zoom:25%;" />
 
-
+<br>
   
 ### *저상버스 
 
@@ -64,13 +64,13 @@
 
 * 일반버스와 동일한 서비스 제공
 
-  
+<br>
 
 #### 입력 예시
 
 - 한국폴리텍1대학에서 보광동주민센터 가는 400번이랑 405번 저상버스 언제와?
 
-  
+<br>
 
 <img src="https://user-images.githubusercontent.com/46305309/65411844-e0051b80-de28-11e9-84ab-05d563efef6f.jpg" alt="busby5" style="zoom:25%;" />
 
