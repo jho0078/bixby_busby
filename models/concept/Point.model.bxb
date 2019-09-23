@@ -1,0 +1,4 @@
+structure (Point) {
+  description (지금위치의 주소를 저장합니다.)
+  }
+

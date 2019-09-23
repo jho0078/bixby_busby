@@ -1,0 +1,3 @@
+text (BusImage) {
+  description (버스 이미지 url입니다.)
+}

@@ -1,0 +1,5 @@
+train (t-jr6k61ekb501ty9mthg02bubs) {
+  utterance ("[g:Results] (왜수골)[v:Origin]에서 (오전 리 농산물 판매장 앞 한양 삼십리 누리 길 오전 리 입구)[v:Destination] 정거장 가는 (15-1)[v:BusNumber]번 (저상버스)[v:LowTag:true] 어느정도 걸려")
+  plan (Y2BjEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLGKTRpVxSi0sy8xJLMvPzGMTQJX3yy0MS0zHF/Ysy0zPzGFgZGBmYGJgZWIAsBiAbBhEAJA5XAQA=)
+  last-modified (1561905299575)
+}

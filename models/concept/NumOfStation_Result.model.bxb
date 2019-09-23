@@ -1,0 +1,19 @@
+structure (NumOfStation_Result) {
+  description (정거장 차이 결과를 보여주기 위한 객체입니다.)
+  property (numOfStation) {
+    type (NumOfStation)
+    min (Optional) max (One)
+  }  
+  property (busNumber) {
+    type (BusNumber)
+    min (Optional) max (One)
+  }
+   property (origin) {
+    type (Origin)
+    min (Optional) max (One)
+  }
+   property (destination) {
+    type (Destination)
+    min (Optional) max (One)
+  }
+}

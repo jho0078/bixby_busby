@@ -1,0 +1,15 @@
+train (t-00j1kv9zx85ngoabs8tiqdbhe) {
+  utterance ("[g:Results] (아름다운 가게 정독도서관)[v:Origin] 정류장에서 (안국역 2번출구 앞)[v:Destination]에 도착하는 (종로01)[v:BusNumber]번이랑 (종로02)[v:BusNumber]번 (저상버스)[v:LowTag:true] 시간 알려주세요")
+  plan (Y+BgEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLyJSSRpdySS0uycxLLMnMz2MQQ5f0yS8PSUzHFPcvykzPzGNgZ2BkYGJgZmBhYGVgA/IYwHwmIAmBDAw8QAgDbECMpBYA)
+  last-modified (1561905322001)
+}
+train (t-013j5k8byhv09uyza1mk5sw8q) {
+  utterance ("[g:Results] (포 일 센트럴 푸르지오 아파트 의왕 고용 복지 플러스 센터)[v:Origin] 정류소에서 (인덕원 삼호 아파트)[v:Destination] 정거장에 도착하는 (1-1)[v:BusNumber]번 이랑 (1-5)[v:BusNumber]번 버스 몇분 남았습니까")
+  plan (Y2BnEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLyJSSRpdySS0uycxLLMnMz2MQQ5f0L8pMz8xjYGNgZGBiYGZgYWAFshnAPCYgCYIMDDxACAGsQAxXBQA=)
+  last-modified (1561905324321)
+}
+train (t-0d4ldxl6cgkecukfgst3qsgq1) {
+  utterance ("[g:Results] (수유역)[v:Origin]에서 (장한평역)[v:Destination] 정류소에 도착하는 (130)[v:BusNumber]번 (저상버스)[v:LowTag:true] 언제 도착해")
+  plan (Y2BjEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLGKTRpVxSi0sy8xJLMvPzGMTQJX3yy0MS0zHF/Ysy0zPzGFgZGBmYGJgZWIAsBiAbBhEAJA5XAQA=)
+  last-modified (1561905321891)
+}

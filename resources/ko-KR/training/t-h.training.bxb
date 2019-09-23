@@ -1,0 +1,15 @@
+train (t-h987umhpjtrvajyxz671ezqx1) {
+  utterance ("[g:Results] (아름다운 가게 정독도서관)[v:Origin] 정류장에서 (안국역 2번출구 앞)[v:Destination]에 도착하는 (종로01)[v:BusNumber]번이랑 (종로02)[v:BusNumber]번 버스 시간 알려주세요")
+  plan (Y2BnEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLyJSSRpdySS0uycxLLMnMz2MQQ5f0L8pMz8xjYGNgZGBiYGZgYWAFshnAPCYgCYIMDDxACAGsQAxXBQA=)
+  last-modified (1561905295715)
+}
+train (t-hsy1fp2i7fkf9nop0lt8om5i4) {
+  utterance ("[g:Results] (중화 2동 주민 센터)[v:Origin] 정거장에서 (성북 구청 성북 경찰서)[v:Destination] 정류소 가는 (273)[v:BusNumber]번 (저상버스)[v:LowTag:true] 어느정도 남았어요")
+  plan (Y2BjEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLGKTRpVxSi0sy8xJLMvPzGMTQJX3yy0MS0zHF/Ysy0zPzGFgZGBmYGJgZWIAsBiAbBhEAJA5XAQA=)
+  last-modified (1561905296295)
+}
+train (t-hy4of60amoqnalgx7fq5mji1y) {
+  utterance ("[g:Results] (안국 선원 삼거리)[v:Origin] 정거장에서 (북촌 한옥 마을 입구 정세권 활동터)[v:Destination]로 가는 (종로01)[v:BusNumber]번이랑 (종로 02)[v:BusNumber]번 버스 얼마나 남았어요")
+  plan (Y2BnEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLyJSSRpdySS0uycxLLMnMz2MQQ5f0L8pMz8xjYGNgZGBiYGZgYWAFshnAPCYgCYIMDDxACAGsQAxXBQA=)
+  last-modified (1561905296788)
+}

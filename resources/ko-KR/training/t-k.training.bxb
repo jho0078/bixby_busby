@@ -1,0 +1,30 @@
+train (t-k2n9o3ctjxp18cnklz7aylizd) {
+  utterance ("[g:Results] (중화 2동 주민 센터)[v:Origin] 정거장에서 (성북 구청 성북 경찰서)[v:Destination] 정류소 가는 (273)[v:BusNumber]번 (저상버스)[v:LowTag:true] 언제쯤 도착해")
+  plan (Y2BjEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLGKTRpVxSi0sy8xJLMvPzGMTQJX3yy0MS0zHF/Ysy0zPzGFgZGBmYGJgZWIAsBiAbBhEAJA5XAQA=)
+  last-modified (1561905322968)
+}
+train (t-k372tr9z9mqf1zd3yfu2xfpsv) {
+  utterance ("[g:Results] (북서울 농협 창동지점)[v:Origin] 정류장에서 (월계 주공 1단지)[v:Destination] 정류장 가는 (1133)[v:BusNumber]번 (저상버스)[v:LowTag:true] 어느정도 남았습니까")
+  plan (Y2BjEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLGKTRpVxSi0sy8xJLMvPzGMTQJX3yy0MS0zHF/Ysy0zPzGFgZGBmYGJgZWIAsBiAbBhEAJA5XAQA=)
+  last-modified (1561905300278)
+}
+train (t-k4u9k64e5kg96ypdh1vmt7bqv) {
+  utterance ("[g:Results] (능실 초등학교)[v:Origin] 정류소에서 출발해서 (경기도 건설 본부 경기도 동물 위생 시험소 칠보 마을 7 단지)[v:Destination] 정류장 가는 (13-4)[v:BusNumber]번 (저상버스)[v:LowTag:true] 얼마나 걸립니까")
+  plan (Y2BjEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLGKTRpVxSi0sy8xJLMvPzGMTQJX3yy0MS0zHF/Ysy0zPzGFgZGBmYGJgZWIAsBiAbBhEAJA5XAQA=)
+  last-modified (1561905302483)
+}
+train (t-kabn40o2totcqzer4qhz58ieq) {
+  utterance ("[g:Results] (왜수골)[v:Origin]에서 (오전 리 농산물 판매장 앞 한양 삼십리 누리 길 오전 리 입구)[v:Destination] 정거장 가는 (15-1)[v:BusNumber]번 버스 어느정도 걸려")
+  plan (Y2BlEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLGKTRpVxSi0sy8xJLMvPzGMTQJf2LMtMz8xhYGBgZmBiYgTQDkAWBMAASg8oBAA==)
+  last-modified (1561905303443)
+}
+train (t-kpswq79mbfdlb4vn1sq1yk16f) {
+  utterance ("[g:Results] (헌법재판소 안국역)[v:Origin]에서 출발해서 (금강제화)[v:Destination] 정거장에 도착하는 (100)[v:BusNumber]번이랑 (151)[v:BusNumber]번이랑 (152)[v:BusNumber]번이랑 (150)[v:BusNumber]번이랑 (502)[v:BusNumber]번 (저상버스)[v:LowTag:true] 언제쯤 오나요")
+  plan (Y+BmEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLBouUNLqUS2pxSWZeYklmfh6DGLqkT355SGI6prh/UWZ6Zh4DFwMjAxMDMwMLAysDGwM7AwcDJ1CMASwKg4xQyMDAA4cwwAnEzEB9bGAToLoB)
+  last-modified (1561905323038)
+}
+train (t-kwmof48nbb2aytfkhzg789dpv) {
+  utterance ("[g:Results] (문정 1동 주민센터 로데오 거리)[v:Origin] 정류소에서 (우리은행 청담지점 청담 삼익 아파트)[v:Destination] 정거장 가는 (3217)[v:BusNumber]번 버스 언제쯤 도착합니까")
+  plan (Y2BlEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLGKTRpVxSi0sy8xJLMvPzGMTQJf2LMtMz8xhYGBgZmBiYgTQDkAWBMAASg8oBAA==)
+  last-modified (1561905304146)
+}

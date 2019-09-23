@@ -1,0 +1,20 @@
+train (t-q0uv6rblp5pt7nvwqh18n00q9) {
+  utterance ("[g:Results] (삼성의료원)[v:Origin]에서 (암센터정문)[v:Destination]가는 (강남 공 1)[v:BusNumber]번 버스 언제와")
+  plan (Y2BlEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLGKTRpVxSi0sy8xJLMvPzGMTQJf2LMtMz8xhYGBgZmBiYgTQDkAWBMAASg8oBAA==)
+  last-modified (1561905328994)
+}
+train (t-q4kd5i5ypj1rgygwz0g8pzov5) {
+  utterance ([g:GetNumOfStation:continue:Results]몇 정거장 걸려?)
+  plan (Y2BiUE4qLU6q1AOSaZl5KalFen6luf5pwSWJJZn5efFBqcWlOSUM8uiK3FNLkNUxMAIhAxQDSQA=)
+  last-modified (1561905329504)
+}
+train (t-qco4p2zqx8cutfmw8mrqpa14u) {
+  utterance ("[g:Results] (숭례문)[v:Origin] 정류소에서 출발해서 (삼각지역)[v:Destination] 정류장에 도착하는 (100)[v:BusNumber]번이랑 (151)[v:BusNumber]번이랑 (152)[v:BusNumber]번이랑 (162)[v:BusNumber]번 (저상버스)[v:LowTag:true] 언제쯤 옵니까")
+  plan (Y+BiEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KL6ColjS7lklpckpmXWJKZn8cghi7pk18ekpiOKe5flJmemcfAycDIwMTAzMDCwMrAxsDOwAEUYQCLQSAjFDIw8EAhDHAAMTNQDytQL1QfAA==)
+  last-modified (1561905323238)
+}
+train (t-qxs8ukk4rh3q2y062yfz1oiwi) {
+  utterance ("[g:Results] (삼성의료원)[v:Origin]에서 (암센터정문)[v:Destination]가는 (강남공1)[v:BusNumber]번 버스 언제와")
+  plan (Y2BlEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLGKTRpVxSi0sy8xJLMvPzGMTQJf2LMtMz8xhYGBgZmBiYgTQDkAWBMAASg8oBAA==)
+  last-modified (1561905330400)
+}

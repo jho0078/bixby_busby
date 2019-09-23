@@ -1,0 +1,5 @@
+train (t-7jsfybo9b4istqqo3xzwoqs44) {
+  utterance ("[g:Results] (아름다운 가게 정독도서관)[v:Origin] 정류장에서 (안국역 2번출구 앞)[v:Destination]에 도착하는 (종로01)[v:BusNumber]번이랑 (종로02)[v:BusNumber]번 버스 얼마나 남았습니까")
+  plan (Y2BnEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLyJSSRpdySS0uycxLLMnMz2MQQ5f0L8pMz8xjYGNgZGBiYGZgYWAFshnAPCYgCYIMDDxACAGsQAxXBQA=)
+  last-modified (1561905268284)
+}

@@ -1,0 +1,10 @@
+train (t-s6735vgi2z0o6wnug7alhtvii) {
+  utterance ("[g:Results] (남부 지방법원 등기국 구로 세무서 에이스 하이테크 시티)[v:Origin]에서 (영등포역)[v:Destination] 정류장으로 가는 (160)[v:BusNumber]번 이랑 (503)[v:BusNumber]번 버스가 어느정도 남았어요")
+  plan (Y2BnEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLyJSSRpdySS0uycxLLMnMz2MQQ5f0L8pMz8xjYGNgZGBiYGZgYWAFshnAPCYgCYIMDDxACAGsQAxXBQA=)
+  last-modified (1561905323367)
+}
+train (t-sf45nb2uq2tls3wcvu7crgd0p) {
+  utterance ("[g:Results] (삼성의료원)[v:Origin]에서 (암센터정문)[v:Destination]가는 (강남공 1)[v:BusNumber]번 버스 언제와")
+  plan (Y2BlEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLGKTRpVxSi0sy8xJLMvPzGMTQJf2LMtMz8xhYGBgZmBiYgTQDkAWBMAASg8oBAA==)
+  last-modified (1561905334380)
+}

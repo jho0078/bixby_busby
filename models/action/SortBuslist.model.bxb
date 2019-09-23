@@ -1,0 +1,11 @@
+action (SortBuslist) {
+  type(Search)
+  description (첫 발화의 결과를 도착예정시간이 짧은 순으로 정렬한다.)
+  collect {
+    input (results) {
+      type (Results)
+      min (Required) max (One)
+    }
+  }
+  output (Results)
+}

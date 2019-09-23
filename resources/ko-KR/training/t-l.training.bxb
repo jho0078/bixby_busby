@@ -1,0 +1,20 @@
+train (t-l0pubcgcpm3ms6hc7y91e732m) {
+  utterance ("[g:Results] (북서울 농협 창동지점)[v:Origin] 정류장에서 (월계 주공 1단지)[v:Destination] 정류장 가는 (1133)[v:BusNumber]번 버스 언제 도착하나요")
+  plan (Y2BlEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLGKTRpVxSi0sy8xJLMvPzGMTQJf2LMtMz8xhYGBgZmBiYgTQDkAWBMAASg8oBAA==)
+  last-modified (1561905304693)
+}
+train (t-l35l8d2za20p8x5h1916m2ona) {
+  utterance ("[g:Results] (서울역 버스 환승 센터)[v:Origin] 정류소에서 (갈월동)[v:Destination] 정류장으로 가는 (종로 01)[v:BusNumber]번이랑 (종로02)[v:BusNumber]번 (저상버스)[v:LowTag:true]는 얼마나 남았어")
+  plan (Y+BgEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLyJSSRpdySS0uycxLLMnMz2MQQ5f0yS8PSUzHFPcvykzPzGNgZ2BkYGJgZmBhYGVgA/IYwHwmIAmBDAw8QAgDbECMpBYA)
+  last-modified (1561905320690)
+}
+train (t-lfqqj7kt75ketiaatwwagivwo) {
+  utterance ("[g:Results] (숭례문)[v:Origin] 정류소에서 출발해서 (삼각지역)[v:Destination] 정류장에 도착하는 (100)[v:BusNumber]번이랑 (151)[v:BusNumber]번이랑 (152)[v:BusNumber]번이랑 (162)[v:BusNumber]번 (저상버스)[v:LowTag:true]가 얼마나 남았어")
+  plan (Y+BiEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KL6ColjS7lklpckpmXWJKZn8cghi7pk18ekpiOKe5flJmemcfAycDIwMTAzMDCwMrAxsDOwAEUYQCLQSAjFDIw8EAhDHAAMTNQDytQL1QfAA==)
+  last-modified (1561905307662)
+}
+train (t-lq9jnw0t269sbw6qwfuxwqugq) {
+  utterance ([g:GetArrBuslist:continue:Results]모든 버스 보여줘)
+  plan (Y2BikEoqLU6q1AOSaZl5KalFekGpxaU5JT6ZxSUMsuhy7qkljkVFTqXFOSBpRiBkgGIgCQA=)
+  last-modified (1561905308112)
+}

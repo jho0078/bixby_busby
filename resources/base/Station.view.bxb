@@ -1,0 +1,13 @@
+result-view {
+  match: NumOfStation_Result(this)
+  message {
+    template ("정거장 수를 확인하세요")
+  }
+  render {
+    layout-macro (station_detail) {
+      param (results_for_view) {
+        expression (this)
+      }
+    }
+  }
+}

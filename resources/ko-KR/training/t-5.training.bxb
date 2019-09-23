@@ -1,0 +1,5 @@
+train (t-5kr7cg3w7w74ts0pt8dybbpt6) {
+  utterance ("[g:Results] (방배 백석 예술대 역 2번 출구)[v:Origin] 정류장에서 출발해서 (서울 지방 조달청 서울 성모 병원)[v:Destination] 도착하는 (서초13)[v:BusNumber]번 (저상버스)[v:LowTag:true]는 어느정도 남았습니까")
+  plan (Y2BjEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLGKTRpVxSi0sy8xJLMvPzGMTQJX3yy0MS0zHF/Ysy0zPzGFgZGBmYGJgZWIAsBiAbBhEAJA5XAQA=)
+  last-modified (1561905262478)
+}

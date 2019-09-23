@@ -1,0 +1,19 @@
+structure (Results) {
+  description (결과들을 리스트에 )
+  property (origin) {  // 출발점
+    type (Origin)
+    min (Optional) max (One)
+  } 
+   property (destination) {  // 목적지
+    type (Destination)
+    min (Optional) max (One)
+  } 
+   property (originID) {  // 출발점
+    type (OriginID)
+    min (Optional) max (One)
+  }
+  property (result) {  // 출발점
+    type (Result)
+    min (Optional) max (Many)
+  } 
+}

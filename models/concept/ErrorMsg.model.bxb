@@ -1,0 +1,3 @@
+text (ErrorMsg) {
+  description (에러 메세지입니다.)
+}

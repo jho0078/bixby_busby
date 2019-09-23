@@ -1,0 +1,26 @@
+result-view {
+  match: Results(this)
+  message {
+    template ("버스 남은 시간을 확인하여 보세요.")
+  }
+  render {
+    layout-macro (result_detail) {
+      param (results_for_view) {
+        expression (this)
+      }
+    }
+  }
+  conversation-drivers{
+    if(exists(this.originID)){
+      conversation-driver{    
+        template ("이 정류장에 도착 예정인 버스 모두 보여줘")
+      }
+      conversation-driver{    
+        template ("빨리 오는 순서대로 보여줘")
+      }
+      conversation-driver{    
+        template ("몇 정거장 가야해?")
+      }
+    }
+  }
+}

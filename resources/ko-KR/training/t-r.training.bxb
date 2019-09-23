@@ -1,0 +1,15 @@
+train (t-r4vxc8s6fi3pm6qqwcyh782oo) {
+  utterance ("[g:Results] (운천 터미널)[v:Origin]에서 출발하고 (사정리 사단앞)[v:Destination]가는 (3001-1)[v:BusNumber]번 (저상버스)[v:LowTag:true] 언제 도착합니까")
+  plan (Y2BjEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLGKTRpVxSi0sy8xJLMvPzGMTQJX3yy0MS0zHF/Ysy0zPzGFgZGBmYGJgZWIAsBiAbBhEAJA5XAQA=)
+  last-modified (1561905323303)
+}
+train (t-rpyy3lckn2vhm9qzx8t1pdyvk) {
+  utterance ([g:SortBuslist:continue:Results]빨리 오는 순서대로 보여줘)
+  plan (Y2BmEE8qLU6q1AOSaZl5KalFekGpxaU5JcUM0ugSwflFJU6lxTmZxSW4dTExMAIxA5BkZGCA0QA=)
+  last-modified (1561905333014)
+}
+train (t-ru0ocpy7jf1izzlmax1mm2hql) {
+  utterance ([g:GetArrBuslist:continue:Results]버스 다 보여줘)
+  plan (Y2BikEoqLU6q1AOSaZl5KalFekGpxaU5JT6ZxSUMsuhy7qkljkVFTqXFOSBpRiBkgGIgCQA=)
+  last-modified (1561905333514)
+}

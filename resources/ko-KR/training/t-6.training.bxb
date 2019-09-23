@@ -1,0 +1,25 @@
+train (t-67rpxr9h3bdrmie1jclv1c4zi) {
+  utterance ([g:SortBuslist:continue:Results]순서대로 보여줘)
+  plan (Y2BmEE8qLU6q1AOSaZl5KalFekGpxaU5JcUM0ugSwflFJU6lxTmZxSW4dTExMAIxA5BkZGCA0QA=)
+  last-modified (1561905262967)
+}
+train (t-6gwqt8dj14dtad79z8233sgmb) {
+  utterance ([g:SortBuslist:continue:Results]도착 순서대로 보여줘)
+  plan (Y2BmEE8qLU6q1AOSaZl5KalFekGpxaU5JcUM0ugSwflFJU6lxTmZxSW4dTExMAIxA5BkZGCA0QA=)
+  last-modified (1561905263554)
+}
+train (t-6n7q1yxqxbmtnwchnhmta5kn4) {
+  utterance ("[g:Results] (경기도 건설 본부 경기도 동물 위생 시험소 칠보 마을 7 단지)[v:Origin] 정거장에서 출발해서 (능실 초등학교)[v:Destination]가는 (13-4)[v:BusNumber]번 (저상버스)[v:LowTag:true] 얼마나 걸려")
+  plan (Y2BjEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLGKTRpVxSi0sy8xJLMvPzGMTQJX3yy0MS0zHF/Ysy0zPzGFgZGBmYGJgZWIAsBiAbBhEAJA5XAQA=)
+  last-modified (1561905267084)
+}
+train (t-6xtkscqb5ts9a7vifefkhw1hg) {
+  utterance ("[g:Results] (금곡동 주민 자치 센터 장애인 복지관 보훈회관 금강 명지A)[v:Origin] 정류장에서 (경춘 주택 앞)[v:Destination] 정류소로 가는 (30)[v:BusNumber]번 이랑 (93)[v:BusNumber]번 이랑 (23)[v:BusNumber]번 (저상버스)[v:LowTag:true]가 언제쯤 도착하나요")
+  plan (Y+BkEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLqC8ljS7lklpckpmXWJKZn8cghi7pk18ekpiOKe5flJmemcfAwcDIwMTAzMDCwMrAxsAO5DOARUCQEQoZGHjAEAbYgZgZqJ4FpgMA)
+  last-modified (1561905267616)
+}
+train (t-6y1tygolg92b3i3t9h2unu9sp) {
+  utterance ("[g:Results] (숭례문)[v:Origin] 정류장에서 출발해서 (서울역 버스 환승 센터)[v:Destination] 정거장으로 가는 (100)[v:BusNumber]번이랑 (150)[v:BusNumber]번 (저상버스)[v:LowTag:true] 언제 오나요")
+  plan (Y+BgEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLyJSSRpdySS0uycxLLMnMz2MQQ5f0yS8PSUzHFPcvykzPzGNgZ2BkYGJgZmBhYGVgA/IYwHwmIAmBDAw8QAgDbECMpBYA)
+  last-modified (1561905322515)
+}

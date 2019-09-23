@@ -1,0 +1,25 @@
+train (t-9dbgrqnxyglxafqdh571qoct8) {
+  utterance ("[g:Results] (경춘 주택 앞)[v:Origin] 정거장에서 (금곡동 주민 자치 센터 장애인 복지관 보훈회관 금강 명지A)[v:Destination] 정류장에 도착하는 (30)[v:BusNumber]번 이랑 (93)[v:BusNumber]번 이랑 (23)[v:BusNumber]번 (저상버스)[v:LowTag:true] 몇분 남았어")
+  plan (Y+BkEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLqC8ljS7lklpckpmXWJKZn8cghi7pk18ekpiOKe5flJmemcfAwcDIwMTAzMDCwMrAxsAO5DOARUCQEQoZGHjAEAbYgZgZqJ4FpgMA)
+  last-modified (1561905270528)
+}
+train (t-9eonjboz8ywp9nh9d78bt5n6k) {
+  utterance ("[g:Results] (논골 대림 아파트 107동 금호동 벽산 아파트)[v:Origin] 정거장에서 출발해서 (논골 e 편한 세상 금호 114 동)[v:Destination]으로가는 (성동03-2)[v:BusNumber]번 버스가 언제 도착해")
+  plan (Y2BlEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLGKTRpVxSi0sy8xJLMvPzGMTQJf2LMtMz8xhYGBgZmBiYgTQDkAWBMAASg8oBAA==)
+  last-modified (1561905271015)
+}
+train (t-9l44r5mjtwkhc7fcep0ms1p4b) {
+  utterance ("[g:Results] (숭례문)[v:Origin] 정류소에서 출발해서 (삼각지역)[v:Destination] 정류장에 도착하는 (100)[v:BusNumber]번이랑 (151)[v:BusNumber]번이랑 (152)[v:BusNumber]번이랑 (162)[v:BusNumber]번 버스 언제쯤 옵니까")
+  plan (Y+BkEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KL6ColjS7lklpckpmXWJKZn8cghi7pX5SZnpnHwMHAyMDEwMzAwsDKwMbADuQzgEUgkBEMGRh4oBAC2IGYGaiaFagLrAMA)
+  last-modified (1561905273612)
+}
+train (t-9lr331ampfjce02tgwar3kgda) {
+  utterance ("[g:Results] (덕신상가)[v:Origin]에서 출발하고 (경기도 인재 개발원 경기 연구원 경기도 평생 교육 진흥원 경기도 가족 여성 연구원)[v:Destination]에 도착하는 (25)[v:BusNumber]번 버스 어느정도 걸리나요")
+  plan (Y2BlEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLGKTRpVxSi0sy8xJLMvPzGMTQJf2LMtMz8xhYGBgZmBiYgTQDkAWBMAASg8oBAA==)
+  last-modified (1561905274218)
+}
+train (t-9yplfz2osyjkxamkpudjwio7r) {
+  utterance ("[g:Results] (인덕원 삼호 아파트)[v:Origin] 정류장에서 출발해서 (포 일 센트럴 푸르지오 아파트 의왕 고용 복지 플러스 센터)[v:Destination] 정류소에 도착하는 (1-1)[v:BusNumber]번 이랑 (1-5)[v:BusNumber]번 (저상버스)[v:LowTag:true] 몇분 남았어요")
+  plan (Y+BgEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLyJSSRpdySS0uycxLLMnMz2MQQ5f0yS8PSUzHFPcvykzPzGNgZ2BkYGJgZmBhYGVgA/IYwHwmIAmBDAw8QAgDbECMpBYA)
+  last-modified (1561905276376)
+}

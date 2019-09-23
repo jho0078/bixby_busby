@@ -1,0 +1,10 @@
+train (t-i8zoa7m8qkvts0lk8mo7lcr35) {
+  utterance ("[g:Results] (수유역)[v:Origin]에서 (장한평역)[v:Destination] 정류소에 도착하는 (130)[v:BusNumber]번 버스가 얼마나 남았어요")
+  plan (Y2BlEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLGKTRpVxSi0sy8xJLMvPzGMTQJf2LMtMz8xhYGBgZmBiYgTQDkAWBMAASg8oBAA==)
+  last-modified (1561905322902)
+}
+train (t-ixercssjbne229iuqaimck8m8) {
+  utterance ("[g:Results] (북창동 남대문시장)[v:Origin] 정거장에서 출발해서 (갈월동)[v:Destination] 정류소로 가는 (150)[v:BusNumber]번이랑 (151)[v:BusNumber]번이랑 (152)[v:BusNumber]번 (저상버스)[v:LowTag:true]는 얼마나 남았어요")
+  plan (Y+BkEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLqC8ljS7lklpckpmXWJKZn8cghi7pk18ekpiOKe5flJmemcfAwcDIwMTAzMDCwMrAxsAO5DOARUCQEQoZGHjAEAbYgZgZqJ4FpgMA)
+  last-modified (1561905298934)
+}

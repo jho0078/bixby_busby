@@ -1,0 +1,61 @@
+structure (Result) {
+  description (버스의 남은 시간을 알려주기 위한 객체입니다.)
+  property (timeTag) {  //timeTag
+    type (TimeTag)
+    min (Optional) max (One)
+  }
+  
+  property (numOfStation) {  //버스 번호
+    type (NumOfStation)
+    min (Optional) max (Many)
+  } 
+  
+  property (firstLow) {  //버스 번호
+    type (FirstLow)
+    min (Optional) max (Many)
+  }
+  property (secondLow) {  //버스 번호
+    type (SecondLow)
+    min (Optional) max (Many)
+  } 
+  
+  property (busNumber) {  //버스 번호
+    type (BusNumber)
+    min (Optional) max (Many)
+  } 
+  
+  property (busColor) {   //버스 색
+    type (BusColor)
+    min (Optional) max (Many)
+  }
+  
+  property (firstArrtime) {   //첫 번째 버스 남은 시간
+    type (FirstArrtime)
+    min (Optional) max (Many)
+  }
+  
+  property (firstLocation) {   //첫 번째 버스 남은 시간
+    type (FirstLocation)
+    min (Optional) max (Many)
+  }
+  
+  property (secondArrtime) {   //두 번째 버스 남은 시간
+    type (SecondArrtime)
+    min (Optional) max (Many)
+  }
+  
+  property (secondLocation) {   //첫 번째 버스 남은 시간
+    type (SecondLocation)
+    min (Optional) max (Many)
+  }
+  
+  property (errorMsg) {   
+    type (ErrorMsg)
+    min (Optional) max (Many)
+  } 
+  
+  property (busImage) {   //두 번째 버스 남은 시간
+    type (BusImage)
+    min (Optional) max (Many)
+  }
+}

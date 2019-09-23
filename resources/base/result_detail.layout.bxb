@@ -1,0 +1,110 @@
+// 결과값 레이아웃 매크로 정의
+layout-macro-def(result_detail) {
+  params {
+    param (results_for_view) {
+      type (Results)
+      min (Required) max (One)
+    }
+  }
+  content {
+    partitioned{
+      content{
+        for-each (results_for_view.result) {
+          as(i) {
+            cell-area {
+              slot1 {
+                if (exists(results_for_view.result[i].errorMsg)) {
+                  image {
+                    url ("/img/exclamation.png")
+                    shape (Square)
+                  }
+                } else {
+                  image {
+                    url ("#{value(results_for_view.result[i].busImage)}")
+                    shape (Square)
+                  }
+                }
+              }
+
+              slot2 {
+                if (exists(results_for_view.result[i].errorMsg) ){
+                  content {
+                    order (PrimarySecondary)
+                    primary ("#{value(results_for_view.result[i].errorMsg)}")
+                    secondary ("")
+                  }
+                } else {
+                  content {
+                    order (PrimarySecondary)
+                    primary ("#{value(results_for_view.result[i].busNumber)}번 버스")
+                  }
+                }
+              }
+            }
+            hbox {
+              content {
+                vbox {
+                  content {
+                    single-line {
+                      text {
+                        value ("#{value(results_for_view.result[i].firstArrtime)}")
+                      }
+                      if (exists(results_for_view.result[i].firstLow)) {
+                        spacer
+                        image {
+                          shape (Square)
+                          url ("#{value(results_for_view.result[i].firstLow)}")
+                        }
+                      }
+                    }
+                  }
+                }
+                vbox {
+                  content {
+                    single-line {
+                      text {
+                        value ("#{value(results_for_view.result[i].firstLocation)}")
+                        style (Detail_L_Soft)
+                      }
+
+                    }
+                  }
+                }
+              }
+            }
+            hbox {
+              content {
+                vbox {
+                  content {
+                    single-line {
+                      text {
+                        value ("#{value(results_for_view.result[i].secondArrtime)}")
+                      }
+                      if (exists(results_for_view.result[i].secondLow)){
+                        spacer
+                        image {
+                          shape (Square)
+                          url ("#{value(results_for_view.result[i].secondLow)}")
+                        }
+                      }
+                    }
+                  }
+                }
+                vbox {
+                  content {
+                    single-line {
+                      text {
+                        value ("#{value(results_for_view.result[i].secondLocation)}")
+                        style (Detail_L_Soft)
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

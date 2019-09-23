@@ -1,0 +1,3 @@
+integer (TimeTag) {
+  description (__DESCRIPTION__)
+}

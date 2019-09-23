@@ -1,0 +1,25 @@
+train (t-v4lcli0zm391oqo9hz3daec1a) {
+  utterance ([g:SortBuslist:continue:Results]빠른 순서대로 보여줘)
+  plan (Y2BmEE8qLU6q1AOSaZl5KalFekGpxaU5JcUM0ugSwflFJU6lxTmZxSW4dTExMAIxA5BkZGCA0QA=)
+  last-modified (1561905337954)
+}
+train (t-vf10lq3a2hlfvinqx95tmg3rf) {
+  utterance ("[g:Results] (우만신성아파트)[v:Origin]에서 출발해서 (수원 고용복지 플러스 센터 동수원 병원 라마다호텔)[v:Destination]도착하는 (27)[v:BusNumber]번 버스가 어느정도 남았습니까")
+  plan (Y2BlEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLGKTRpVxSi0sy8xJLMvPzGMTQJf2LMtMz8xhYGBgZmBiYgTQDkAWBMAASg8oBAA==)
+  last-modified (1561905323430)
+}
+train (t-vh0xcj4oejd8d1shqt3ssrtt4) {
+  utterance ("[g:Results] (경기도 건설 본부 경기도 동물 위생 시험소 칠보 마을 7 단지)[v:Origin] 정거장에서 출발해서 (능실 초등학교)[v:Destination]가는 (13-4)[v:BusNumber]번 버스 얼마나 걸려")
+  plan (Y2BlEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLGKTRpVxSi0sy8xJLMvPzGMTQJf2LMtMz8xhYGBgZmBiYgTQDkAWBMAASg8oBAA==)
+  last-modified (1561905340555)
+}
+train (t-vu6t37ydswlscxi11qnfuhfh2) {
+  utterance ("[g:Results] (논골 대림 아파트 107동 금호동 벽산 아파트)[v:Origin] 정거장 에서 출발해서 (논골 e 편한 세상 금호 114 동)[v:Destination]으로 가는 (성동03-2)[v:BusNumber]번 버스는 어느정도 남았어요")
+  plan (Y2BlEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLGKTRpVxSi0sy8xJLMvPzGMTQJf2LMtMz8xhYGBgZmBiYgTQDkAWBMAASg8oBAA==)
+  last-modified (1561905323494)
+}
+train (t-vvkrmce1okdxzatan4nguu9o4) {
+  utterance ("[g:Results] (방배 백석 예술대 역 2번 출구)[v:Origin] 정류장에서 출발해서 (서울 지방 조달청 서울 성모 병원)[v:Destination] 도착하는 (서초13)[v:BusNumber]번 (저상버스)[v:LowTag:true] 언제쯤 도착하나요")
+  plan (Y2BjEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLGKTRpVxSi0sy8xJLMvPzGMTQJX3yy0MS0zHF/Ysy0zPzGFgZGBmYGJgZWIAsBiAbBhEAJA5XAQA=)
+  last-modified (1561904948592)
+}

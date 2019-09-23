@@ -1,0 +1,3 @@
+text (FirstArrtime) {
+  description (처음 도착하는 버스 도착 시간입니다.)
+}

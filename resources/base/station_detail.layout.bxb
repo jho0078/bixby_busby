@@ -1,0 +1,91 @@
+layout-macro-def(station_detail) {
+  params {
+    param (results_for_view) {
+      type (NumOfStation_Result)
+      min (Required) max (One)
+    } 
+  }
+  content {
+    partitioned{
+      content{
+        hbox {
+          content {
+            vbox {
+              grow (5)
+              content {
+                single-line {
+                  image {
+                    shape (Square)
+                    style (Detail_L)
+                    url ("/img/busstop.png")
+                  }
+                  spacer
+                  text {
+                    style (Title_XS)
+                    value ("#{value(results_for_view.origin)}")
+                  }
+                }                         
+              }
+            }
+            vbox {
+              grow (0)
+              content {
+                single-line {
+                  image {
+                    shape (Circle)
+                    style (Detail_M)
+                    url ("/img/arrow.png")
+                  }
+                }
+              }
+            }
+            vbox {
+              grow (5)
+              content {
+                single-line {
+                  image {
+                    shape(Square)
+                    style (Detail_L)
+                    url ("/img/busstop.png")
+                  }
+                  spacer
+                  text {
+                    style (Title_XS)
+                    value ("#{value(results_for_view.destination)}")    
+                  }
+                }                         
+              }
+            }
+          }
+        }
+        for-each (results_for_view) {
+          as(i) {
+            hbox {
+              content {
+                vbox {
+                  content {
+                    single-line {
+                      text {
+                        value ("#{value(results_for_view[i].busNumber)} 버스")
+                      }
+                    }
+                  }
+                }
+                vbox {
+                  content {
+                    single-line {
+                      text {
+                        value ("#{value(results_for_view[i].numOfStation)} 정거장")
+                        style(Title_S)
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

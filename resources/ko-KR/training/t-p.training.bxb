@@ -1,0 +1,25 @@
+train (t-p919z36bggdg0rzuukqlelkd8) {
+  utterance ("[g:Results] (문정 1동 주민센터 로데오 거리)[v:Origin] 정류소에서 (우리은행 청담지점 청담 삼익 아파트)[v:Destination] 정거장 가는 (3217)[v:BusNumber]번 (저상버스)[v:LowTag:true]는 어느정도 남았어")
+  plan (Y2BjEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLGKTRpVxSi0sy8xJLMvPzGMTQJX3yy0MS0zHF/Ysy0zPzGFgZGBmYGJgZWIAsBiAbBhEAJA5XAQA=)
+  last-modified (1561905314415)
+}
+train (t-pgfa5vsa23276ztpg45be4k5k) {
+  utterance ("[g:Results] (경춘 주택 앞)[v:Origin] 정거장에서 (금곡동 주민 자치 센터 장애인 복지관 보훈회관 금강 명지A)[v:Destination] 정류장에 도착하는 (30)[v:BusNumber]번 이랑 (93)[v:BusNumber]번 이랑 (23)[v:BusNumber]번 버스 몇분 남았어")
+  plan (Y+BgEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLqC8ljS7lklpckpmXWJKZn8cghi7pX5SZnpnHwM7AyMDEwMzAwsDKwAbkMYD5IMgIhgwMPGAIAWxAzAxUyQJRCwA=)
+  last-modified (1561905314988)
+}
+train (t-pidh416urzqu4sej6v75ylujv) {
+  utterance ([g:GetArrBuslist:continue:Results]이 정류장에 도착예정인 버스 모두볼래)
+  plan (Y2BikEoqLU6q1AOSaZl5KalFekGpxaU5JT6ZxSUMsuhy7qkljkVFTqXFOSBpRiBkgGIgCQA=)
+  last-modified (1561905315560)
+}
+train (t-plcsltevuit6zxp5ms7qj7xww) {
+  utterance ("[g:Results] (포 일 센트럴 푸르지오 아파트 의왕 고용 복지 플러스 센터)[v:Origin] 정류소에서 (인덕원 삼호 아파트)[v:Destination] 정거장에 도착하는 (1-1)[v:BusNumber]번 이랑 (1-5)[v:BusNumber]번 (저상버스)[v:LowTag:true] 몇분 남았습니까")
+  plan (Y+BgEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLyJSSRpdySS0uycxLLMnMz2MQQ5f0yS8PSUzHFPcvykzPzGNgZ2BkYGJgZmBhYGVgA/IYwHwmIAmBDAw8QAgDbECMpBYA)
+  last-modified (1561905316039)
+}
+train (t-pwig78twxqnz048cx7ulfqtwj) {
+  utterance ("[g:Results] (우만신성아파트)[v:Origin]에서 출발해서 (수원 고용복지 플러스 센터 동수원 병원 라마다호텔)[v:Destination]도착하는 (27)[v:BusNumber]번 (저상버스)[v:LowTag:true]가 언제 도착하나요")
+  plan (Y2BjEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLGKTRpVxSi0sy8xJLMvPzGMTQJX3yy0MS0zHF/Ysy0zPzGFgZGBmYGJgZWIAsBiAbBhEAJA5XAQA=)
+  last-modified (1561905328226)
+}

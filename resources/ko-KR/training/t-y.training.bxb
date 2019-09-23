@@ -1,0 +1,20 @@
+train (t-y344ta5xieda5lw7hnjvtmlzi) {
+  utterance ("[g:Results] (숭례문)[v:Origin] 정류장에서 출발해서 (서울역 버스 환승 센터)[v:Destination] 정거장으로 가는 (100)[v:BusNumber]번이랑 (150)[v:BusNumber]번 버스 언제 오나요")
+  plan (Y2BnEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLyJSSRpdySS0uycxLLMnMz2MQQ5f0L8pMz8xjYGNgZGBiYGZgYWAFshnAPCYgCYIMDDxACAGsQAxXBQA=)
+  last-modified (1561905346370)
+}
+train (t-y6ptz08or85p5dp9806u2hm5m) {
+  utterance ("[g:Results] (숭례문)[v:Origin] 정류장에서 출발해서 (서울역 버스 환승 센터)[v:Destination] 정거장으로 가는 (100)[v:BusNumber]번이랑 (150)[v:BusNumber]번 버스는 얼마나 남았습니까")
+  plan (Y2BnEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLyJSSRpdySS0uycxLLMnMz2MQQ5f0L8pMz8xjYGNgZGBiYGZgYWAFshnAPCYgCYIMDDxACAGsQAxXBQA=)
+  last-modified (1561905094668)
+}
+train (t-yq2pubqq0iu57dty4thb6fcdd) {
+  utterance ("[g:Results] (논골 대림 아파트 107동 금호동 벽산 아파트)[v:Origin] 정거장에서 출발해서 (논골 e 편한 세상 금호 114 동)[v:Destination]으로가는 (성동03-2)[v:BusNumber]번 (저상버스)[v:LowTag:true]가 언제 도착해")
+  plan (Y2BjEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLGKTRpVxSi0sy8xJLMvPzGMTQJX3yy0MS0zHF/Ysy0zPzGFgZGBmYGJgZWIAsBiAbBhEAJA5XAQA=)
+  last-modified (1561905348410)
+}
+train (t-yq6ratjrh5tj2w2j9aknw7612) {
+  utterance ("[g:Results] (수유역)[v:Origin]에서 (장한평역)[v:Destination] 정류소에 도착하는 (130)[v:BusNumber]번 버스 언제 도착해")
+  plan (Y2BlEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLGKTRpVxSi0sy8xJLMvPzGMTQJf2LMtMz8xhYGBgZmBiYgTQDkAWBMAASg8oBAA==)
+  last-modified (1561905348913)
+}

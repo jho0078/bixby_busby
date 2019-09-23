@@ -1,0 +1,10 @@
+train (t-w2n24t15utwprdqpt0fxzclgv) {
+  utterance ("[g:Results] (수운회관)[v:Origin]에서 출발하고 (종각역YMCA)[v:Destination]으로가는 (종로 01)[v:BusNumber]번이랑 (종로 02)[v:BusNumber]번 버스 얼마나 남았어")
+  plan (Y2BnEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLyJSSRpdySS0uycxLLMnMz2MQQ5f0L8pMz8xjYGNgZGBiYGZgYWAFshnAPCYgCYIMDDxACAGsQAxXBQA=)
+  last-modified (1561905341582)
+}
+train (t-wnoc1rqdwbcjmhdh8o80xc955) {
+  utterance ("[g:Results] (안국 선원 삼거리)[v:Origin] 정거장에서 (북촌 한옥 마을 입구 정세권 활동터)[v:Destination]로 가는 (종로01)[v:BusNumber]번이랑 (종로 02)[v:BusNumber]번 (저상버스)[v:LowTag:true] 얼마나 남았어요")
+  plan (Y+BgEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLyJSSRpdySS0uycxLLMnMz2MQQ5f0yS8PSUzHFPcvykzPzGNgZ2BkYGJgZmBhYGVgA/IYwHwmIAmBDAw8QAgDbECMpBYA)
+  last-modified (1561905343557)
+}

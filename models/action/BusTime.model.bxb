@@ -1,0 +1,35 @@
+action (BusTime) {  //연결 코드
+  description ( 버스 몇 분 남았는지 알려줄거야 )
+  collect {
+    input (origin) {    //출발지
+      type (Origin)
+      min (Required) max (One)
+    }
+  
+    input (destination) {   //도착지
+      type (Destination)
+      min (Required) max (One)
+    }
+    input (busNumber) {   //버스번호
+      type (BusNumber)
+      min (Required) max (Many)
+    }
+    input(lowTag) { //저상버스요청
+      type(LowTag)
+      min(Optional) max (One)
+    }
+    computed-input (point){ //현재
+      type (geo.GeocodedAddress)
+      min (Optional) max (One)
+      compute{
+        intent{
+          goal: geo.GeocodedAddress
+          route: geo.CurrentLocation
+        }
+      }
+    }
+  }
+  type(Search)
+  output (Results)
+  
+}

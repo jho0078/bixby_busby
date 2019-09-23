@@ -1,0 +1,3 @@
+text (FirstLow) {
+  description (처음 도착하는 버스가 저상버스인지 저장합니다.)
+}

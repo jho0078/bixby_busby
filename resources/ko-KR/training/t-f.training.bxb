@@ -1,0 +1,25 @@
+train (t-f6xbbiucnoejhnxxugksiai6x) {
+  utterance ("[g:Results] (수운회관)[v:Origin]에서 출발하고 (종각역YMCA)[v:Destination]으로가는 (종로 01)[v:BusNumber]번이랑 (종로 02)[v:BusNumber]번 (저상버스)[v:LowTag:true] 시간 알려줘")
+  plan (Y+BgEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLyJSSRpdySS0uycxLLMnMz2MQQ5f0yS8PSUzHFPcvykzPzGNgZ2BkYGJgZmBhYGVgA/IYwHwmIAmBDAw8QAgDbECMpBYA)
+  last-modified (1561905322839)
+}
+train (t-fahq9321x60oca4p1ojwvhfng) {
+  utterance ([g:GetArrBuslist:continue:Results]이 정류장에 도착 예정인 버스 모두 보여줘)
+  plan (Y2BikEoqLU6q1AOSaZl5KalFekGpxaU5JT6ZxSUMsuhy7qkljkVFTqXFOSBpRiBkgGIgCQA=)
+  last-modified (1561905291989)
+}
+train (t-fl2wdznqgqzhbtqw0snxb0gg6) {
+  utterance ("[g:Results] (서울역 버스 환승 센터)[v:Origin] 정류소에서 (갈월동)[v:Destination] 정류장으로 가는 (종로 01)[v:BusNumber]번이랑 (종로02)[v:BusNumber]번 버스 언제 옵니까")
+  plan (Y2BnEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLyJSSRpdySS0uycxLLMnMz2MQQ5f0L8pMz8xjYGNgZGBiYGZgYWAFshnAPCYgCYIMDDxACAGsQAxXBQA=)
+  last-modified (1561905292468)
+}
+train (t-fm49m3z4lchmsh5cjb4zscmre) {
+  utterance ([g:GetNumOfStation:continue:Results]정거장 얼마나 멀어?)
+  plan (Y2BiUE4qLU6q1AOSaZl5KalFen6luf5pwSWJJZn5efFBqcWlOSUM8uiK3FNLkNUxMAIhAxQDSQA=)
+  last-modified (1561905293015)
+}
+train (t-fp8f5fab97iiygxen79rw0key) {
+  utterance ("[g:Results] (금곡동 주민 자치 센터 장애인 복지관 보훈회관 금강 명지A)[v:Origin] 정류장에서 (경춘 주택 앞)[v:Destination] 정류소로 가는 (30)[v:BusNumber]번 이랑 (93)[v:BusNumber]번 이랑 (23)[v:BusNumber]번 버스가 언제쯤 도착하나요")
+  plan (Y+BgEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLqC8ljS7lklpckpmXWJKZn8cghi7pX5SZnpnHwM7AyMDEwMzAwsDKwAbkMYD5IMgIhgwMPGAIAWxAzAxUyQJRCwA=)
+  last-modified (1561905294676)
+}

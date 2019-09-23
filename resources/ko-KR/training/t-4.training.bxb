@@ -1,0 +1,15 @@
+train (t-46pmy9bxnhiswk3n1re36xvgj) {
+  utterance ("[g:Results] (서울역 버스 환승 센터)[v:Origin] 정류소에서 (갈월동)[v:Destination] 정류장으로 가는 (종로 01)[v:BusNumber]번이랑 (종로02)[v:BusNumber]번 버스는 얼마나 남았어")
+  plan (Y2BnEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLyJSSRpdySS0uycxLLMnMz2MQQ5f0L8pMz8xjYGNgZGBiYGZgYWAFshnAPCYgCYIMDDxACAGsQAxXBQA=)
+  last-modified (1561905323622)
+}
+train (t-4cbx1katzqe15s8pbv0zsc9zt) {
+  utterance ("[g:Results] (헌법재판소 안국역)[v:Origin]에서 출발해서 (금강제화)[v:Destination] 정거장에 도착하는 (100)[v:BusNumber]번이랑 (151)[v:BusNumber]번이랑 (152)[v:BusNumber]번이랑 (150)[v:BusNumber]번이랑 (502)[v:BusNumber]번 버스가 얼마나 남았습니까")
+  plan (Y+BiEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLBouUNLqUS2pxSWZeYklmfh6DGLqkf1FmemYeAycDIwMTAzMDCwMrAxsDOwMHUIQBLAaDjGDIwMADhxDAAcTMQB1sYL1gfQA=)
+  last-modified (1561905261487)
+}
+train (t-4n95fqcunksu7237st2hl8gvz) {
+  utterance ("[g:Results] (숭례문)[v:Origin] 정류소에서 출발해서 (삼각지역)[v:Destination] 정류장에 도착하는 (100)[v:BusNumber]번이랑 (151)[v:BusNumber]번이랑 (152)[v:BusNumber]번이랑 (162)[v:BusNumber]번 버스가 얼마나 남았어")
+  plan (Y+BkEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KL6ColjS7lklpckpmXWJKZn8cghi7pX5SZnpnHwMHAyMDEwMzAwsDKwMbADuQzgEUgkBEMGRh4oBAC2IGYGaiaFagLrAMA)
+  last-modified (1561905322194)
+}

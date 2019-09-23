@@ -1,0 +1,11 @@
+action (GetNumOfStation) {
+  type(Search)
+  description (__DESCRIPTION__)
+  collect {
+    input (results) {
+      type (Results)
+      min (Optional) max (One)
+    }
+  }
+  output (NumOfStation_Result)
+}

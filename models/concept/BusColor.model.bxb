@@ -1,0 +1,3 @@
+text (BusColor) {
+  description (버스 색상입니다.)
+}

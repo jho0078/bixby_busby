@@ -1,0 +1,3 @@
+vocab(mybus.busby.LowTag){
+  "true" {"저상" "저상버스" "저상 버스" "교통약자" "교통 약자"}
+}

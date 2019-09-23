@@ -1,0 +1,15 @@
+train (t-xgay2v0kphwx79cqy28n4bav6) {
+  utterance ("[g:Results] (남부 지방법원 등기국 구로 세무서 에이스 하이테크 시티)[v:Origin]에서 (영등포역)[v:Destination] 정류장으로 가는 (160)[v:BusNumber]번 이랑 (503)[v:BusNumber]번 (저상버스)[v:LowTag:true]가 언제쯤 도착해")
+  plan (Y+BgEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLyJSSRpdySS0uycxLLMnMz2MQQ5f0yS8PSUzHFPcvykzPzGNgZ2BkYGJgZmBhYGVgA/IYwHwmIAmBDAw8QAgDbECMpBYA)
+  last-modified (1561905344090)
+}
+train (t-xlfvkuwkntr4srm9lg6ebytw7) {
+  utterance ("[g:Results] (덕신상가)[v:Origin]에서 출발하고 (경기도 인재 개발원 경기 연구원 경기도 평생 교육 진흥원 경기도 가족 여성 연구원)[v:Destination]에 도착하는 (25)[v:BusNumber]번 (저상버스)[v:LowTag:true] 어느정도 걸리나요")
+  plan (Y2BjEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLGKTRpVxSi0sy8xJLMvPzGMTQJX3yy0MS0zHF/Ysy0zPzGFgZGBmYGJgZWIAsBiAbBhEAJA5XAQA=)
+  last-modified (1561905344570)
+}
+train (t-xyx8onsb19qwj8ul6vwhipi88) {
+  utterance ("[g:Results] (북서울 농협 창동지점)[v:Origin] 정류장에서 (월계 주공 1단지)[v:Destination] 정류장 가는 (1133)[v:BusNumber]번 (저상버스)[v:LowTag:true] 언제 도착하나요")
+  plan (Y2BjEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLGKTRpVxSi0sy8xJLMvPzGMTQJX3yy0MS0zHF/Ysy0zPzGFgZGBmYGJgZWIAsBiAbBhEAJA5XAQA=)
+  last-modified (1561905322260)
+}

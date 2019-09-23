@@ -1,0 +1,20 @@
+train (t-m7b2qdbr6enghlj4yj4p9cb0c) {
+  utterance ("[g:Results] (논골 대림 아파트 107동 금호동 벽산 아파트)[v:Origin] 정거장에서 출발해서 (논골 e 편한 세상 금호 114 동)[v:Destination]으로가는 (성동03-2)[v:BusNumber]번 (저상버스)[v:LowTag:true]는 어느정도 남았어요")
+  plan (Y2BjEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLGKTRpVxSi0sy8xJLMvPzGMTQJX3yy0MS0zHF/Ysy0zPzGFgZGBmYGJgZWIAsBiAbBhEAJA5XAQA=)
+  last-modified (1561905308594)
+}
+train (t-m7yfhshnnfi96ogugnbj4bzg3) {
+  utterance ("[g:Results] (북창동 남대문시장)[v:Origin] 정거장에서 출발해서 (갈월동)[v:Destination] 정류소로 가는 (150)[v:BusNumber]번이랑 (151)[v:BusNumber]번이랑 (152)[v:BusNumber]번 (저상버스)[v:LowTag:true] 언제쯤 와")
+  plan (Y+BkEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLqC8ljS7lklpckpmXWJKZn8cghi7pk18ekpiOKe5flJmemcfAwcDIwMTAzMDCwMrAxsAO5DOARUCQEQoZGHjAEAbYgZgZqJ4FpgMA)
+  last-modified (1561905323105)
+}
+train (t-mjtw82vhdvx4xe5opgey2muet) {
+  utterance ("[g:Results] (삼성의료원)[v:Origin]에서 (암센터정문)[v:Destination]가는 (강남 공1)[v:BusNumber]번 버스 언제와")
+  plan (Y2BlEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLGKTRpVxSi0sy8xJLMvPzGMTQJf2LMtMz8xhYGBgZmBiYgTQDkAWBMAASg8oBAA==)
+  last-modified (1561905310589)
+}
+train (t-myf5xzwywcz8aaqzlu690xi62) {
+  utterance ("[g:Results] (서울역 버스 환승 센터)[v:Origin] 정류소에서 (갈월동)[v:Destination] 정류장으로 가는 (종로 01)[v:BusNumber]번이랑 (종로02)[v:BusNumber]번 (저상버스)[v:LowTag:true] 언제 옵니까")
+  plan (Y+BgEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLyJSSRpdySS0uycxLLMnMz2MQQ5f0yS8PSUzHFPcvykzPzGNgZ2BkYGJgZmBhYGVgA/IYwHwmIAmBDAw8QAgDbECMpBYA)
+  last-modified (1561905323170)
+}

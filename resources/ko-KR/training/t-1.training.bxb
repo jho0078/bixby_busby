@@ -1,0 +1,40 @@
+train (t-10qcp3f8f93e5txcxmjr61vmu) {
+  utterance ("[g:Results] (수유역)[v:Origin]에서 (장한평역)[v:Destination] 정류소에 도착하는 (130)[v:BusNumber]번 (저상버스)[v:LowTag:true]가 얼마나 남았어요")
+  plan (Y2BjEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLGKTRpVxSi0sy8xJLMvPzGMTQJX3yy0MS0zHF/Ysy0zPzGFgZGBmYGJgZWIAsBiAbBhEAJA5XAQA=)
+  last-modified (1561905320150)
+}
+train (t-16yglgs50tgwm0ciosfaubq6g) {
+  utterance ([g:GetArrBuslist:continue:Results]정류소에 오는 버스 보여줘)
+  plan (Y2BikEoqLU6q1AOSaZl5KalFekGpxaU5JT6ZxSUMsuhy7qkljkVFTqXFOSBpRiBkgGIgCQA=)
+  last-modified (1561905318925)
+}
+train (t-17qrf24590n38akixv3kxtopt) {
+  utterance ([g:GetNumOfStation:continue:Results]정거장 얼마나 차이나?)
+  plan (Y2BiUE4qLU6q1AOSaZl5KalFen6luf5pwSWJJZn5efFBqcWlOSUM8uiK3FNLkNUxMAIhAxQDSQA=)
+  last-modified (1561905318450)
+}
+train (t-1ep7nubfd6aad38xp31506r3d) {
+  utterance ("[g:Results] (북창동 남대문시장)[v:Origin] 정거장에서 출발해서 (갈월동)[v:Destination] 정류소로 가는 (150)[v:BusNumber]번이랑 (151)[v:BusNumber]번이랑 (152)[v:BusNumber]번 버스 언제쯤 와")
+  plan (Y+BgEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLqC8ljS7lklpckpmXWJKZn8cghi7pX5SZnpnHwM7AyMDEwMzAwsDKwAbkMYD5IMgIhgwMPGAIAWxAzAxUyQJRCwA=)
+  last-modified (1561905325377)
+}
+train (t-1fb3fk9w9alwnais8uofruxiy) {
+  utterance ("[g:Results] (운천 터미널)[v:Origin]에서 출발하고 (사정리 사단앞)[v:Destination]가는 (3001-1)[v:BusNumber]번 버스 어느정도 남았어")
+  plan (Y2BlEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLGKTRpVxSi0sy8xJLMvPzGMTQJf2LMtMz8xhYGBgZmBiYgTQDkAWBMAASg8oBAA==)
+  last-modified (1561905322387)
+}
+train (t-1flyg4ktgr3eo0llo7ii41uzd) {
+  utterance ("[g:Results] (문정 1동 주민센터 로데오 거리)[v:Origin] 정류소에서 (우리은행 청담지점 청담 삼익 아파트)[v:Destination] 정거장 가는 (3217)[v:BusNumber]번 버스는 어느정도 남았어")
+  plan (Y2BlEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLGKTRpVxSi0sy8xJLMvPzGMTQJf2LMtMz8xhYGBgZmBiYgTQDkAWBMAASg8oBAA==)
+  last-modified (1561905322460)
+}
+train (t-1n511qnacvh52u9te1bq144fl) {
+  utterance ("[g:Results] (능실 초등학교)[v:Origin] 정류소에서 출발해서 (경기도 건설 본부 경기도 동물 위생 시험소 칠보 마을 7 단지)[v:Destination] 정류장 가는 (13-4)[v:BusNumber]번 버스 얼마나 걸립니까")
+  plan (Y2BlEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLGKTRpVxSi0sy8xJLMvPzGMTQJf2LMtMz8xhYGBgZmBiYgTQDkAWBMAASg8oBAA==)
+  last-modified (1561905324130)
+}
+train (t-1s6eo59imwtmwc2l6yralybsy) {
+  utterance ("[g:Results] (경기도 인재 개발원 경기 연구원 경기도 평생 교육 진흥원 경기도 가족 여성 연구원)[v:Origin]에서 (덕신상가)[v:Destination]로 가는 (25)[v:BusNumber]번 (저상버스)[v:LowTag:true] 어느정도 걸립니까")
+  plan (Y2BjEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLGKTRpVxSi0sy8xJLMvPzGMTQJX3yy0MS0zHF/Ysy0zPzGFgZGBmYGJgZWIAsBiAbBhEAJA5XAQA=)
+  last-modified (1561905320822)
+}

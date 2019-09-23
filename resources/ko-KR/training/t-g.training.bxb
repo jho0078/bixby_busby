@@ -1,0 +1,5 @@
+train (t-gfcjeowljcod87gyxjqkoxzfu) {
+  utterance ("[g:Results] (남부 지방법원 등기국 구로 세무서 에이스 하이테크 시티)[v:Origin]에서 (영등포역)[v:Destination] 정류장으로 가는 (160)[v:BusNumber]번 이랑 (503)[v:BusNumber]번 (저상버스)[v:LowTag:true]가 어느정도 남았어요")
+  plan (Y+BgEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLyJSSRpdySS0uycxLLMnMz2MQQ5f0yS8PSUzHFPcvykzPzGNgZ2BkYGJgZmBhYGVgA/IYwHwmIAmBDAw8QAgDbECMpBYA)
+  last-modified (1561905295230)
+}

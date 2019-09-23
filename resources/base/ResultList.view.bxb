@@ -1,0 +1,13 @@
+result-view {
+  match: ResultList(this)
+  message {
+    template ("정류장에 도착예정인 모든 버스를 확인하세요")
+  }
+  render {
+    layout-macro (resultList_detail) {
+      param (resultList_for_view) {
+        expression (this)
+      }
+    }
+  }
+}

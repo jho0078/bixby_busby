@@ -1,0 +1,24 @@
+action (GetArrBuslist) {
+  type(Search)
+  description (originID를 통해 orgin버스 정류장에 도착예정인 모든 버스를 보여준다.)
+  collect {
+    
+    computed-input (point){ //현재
+      type (geo.GeocodedAddress)
+      min (Optional) max (One)
+      compute{
+        intent{
+          goal: geo.GeocodedAddress
+          route: geo.CurrentLocation
+        }
+      }
+    }
+    
+    
+    input (results) {
+      type (Results)
+      min (Optional) max (One)
+    }
+  }
+  output (ResultList)
+}

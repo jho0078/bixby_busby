@@ -1,0 +1,10 @@
+train (t-d5wicqig4fi96yyp1ebwaoifd) {
+  utterance ("[g:Results] (문정 1동 주민센터 로데오 거리)[v:Origin] 정류소에서 (우리은행 청담지점 청담 삼익 아파트)[v:Destination] 정거장 가는 (3217)[v:BusNumber]번 (저상버스)[v:LowTag:true] 언제쯤 도착합니까")
+  plan (Y2BjEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLGKTRpVxSi0sy8xJLMvPzGMTQJX3yy0MS0zHF/Ysy0zPzGFgZGBmYGJgZWIAsBiAbBhEAJA5XAQA=)
+  last-modified (1561905285134)
+}
+train (t-dxgfxwjycn0lm79hwb7wutide) {
+  utterance ("[g:Results] (안국 선원 삼거리)[v:Origin] 정거장에서 (북촌 한옥 마을 입구 정세권 활동터)[v:Destination]로 가는 (종로01)[v:BusNumber]번이랑 (종로 02)[v:BusNumber]번 (저상버스)[v:LowTag:true] 언제 와")
+  plan (Y+BgEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLyJSSRpdySS0uycxLLMnMz2MQQ5f0yS8PSUzHFPcvykzPzGNgZ2BkYGJgZmBhYGVgA/IYwHwmIAmBDAw8QAgDbECMpBYA)
+  last-modified (1561905322771)
+}

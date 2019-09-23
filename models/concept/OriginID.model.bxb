@@ -1,0 +1,3 @@
+text (OriginID) {
+  description (출발 정류장 고유값입니다.)
+}

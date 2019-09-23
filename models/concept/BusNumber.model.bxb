@@ -1,0 +1,3 @@
+text (BusNumber) {
+  description (버스 노선 번호입니다.)
+}

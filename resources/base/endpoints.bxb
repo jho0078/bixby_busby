@@ -1,0 +1,23 @@
+endpoints {
+  action-endpoints {
+    action-endpoint (BusTime) {
+      accepted-inputs (origin, destination, busNumber,lowTag,point)
+      local-endpoint (busTime_main.js)
+    }
+    
+    action-endpoint (GetArrBuslist) {
+      accepted-inputs (results, point)
+      local-endpoint (getArrBuslist_main.js)
+    }
+    
+    action-endpoint (GetNumOfStation) {
+      accepted-inputs (results)
+      local-endpoint (getNumOfStation.js)
+    }
+    
+    action-endpoint (SortBuslist) {
+      accepted-inputs (results)
+      local-endpoint (sortBuslist.js)
+    }
+  }
+}

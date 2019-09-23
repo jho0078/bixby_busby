@@ -1,0 +1,3 @@
+text (NumOfStation) {
+  description (정거장 차이를 보여줍니다.)
+}

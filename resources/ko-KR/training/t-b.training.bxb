@@ -1,0 +1,25 @@
+train (t-b0my72672i7xvf7og4x3znq6k) {
+  utterance ("[g:Results] (죽전역 수지 레스피아 죽전2동 주민센터 신세계 경기점)[v:Origin] 정류소에서 출발해서 (중앙공원)[v:Destination]에 도착하는 (720-4)[v:BusNumber]번 (저상버스)[v:LowTag:true]가 언제 도착합니까")
+  plan (Y2BjEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLGKTRpVxSi0sy8xJLMvPzGMTQJX3yy0MS0zHF/Ysy0zPzGFgZGBmYGJgZWIAsBiAbBhEAJA5XAQA=)
+  last-modified (1561905280172)
+}
+train (t-b266ojw8utevulf04hl2ma7m1) {
+  utterance ("[g:Results] (운천 터미널)[v:Origin]에서 출발하고 (사정리 사단앞)[v:Destination]가는 (3001-1)[v:BusNumber]번 (저상버스)[v:LowTag:true] 어느정도 남았어")
+  plan (Y2BjEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLGKTRpVxSi0sy8xJLMvPzGMTQJX3yy0MS0zHF/Ysy0zPzGFgZGBmYGJgZWIAsBiAbBhEAJA5XAQA=)
+  last-modified (1561905280661)
+}
+train (t-b4swwgxgh2ltjs7sb28l7o04s) {
+  utterance ("[g:Results] (북서울 농협 창동지점)[v:Origin] 정류장에서 (월계 주공 1단지)[v:Destination] 정류장 가는 (1133)[v:BusNumber]번 버스 어느정도 남았습니까")
+  plan (Y2BlEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLGKTRpVxSi0sy8xJLMvPzGMTQJf2LMtMz8xhYGBgZmBiYgTQDkAWBMAASg8oBAA==)
+  last-modified (1561905322705)
+}
+train (t-bcqha0ctgsq5ceta1ewsd7r94) {
+  utterance ("[g:Results] (오전 리 농산물 판매장 앞 한양 삼십리 누리 길 오전 리 입구)[v:Origin]에서 출발해서 (왜수골)[v:Destination] 정류소 가는 (15-1)[v:BusNumber]번 (저상버스)[v:LowTag:true] 얼마나 걸리나요")
+  plan (Y2BjEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLGKTRpVxSi0sy8xJLMvPzGMTQJX3yy0MS0zHF/Ysy0zPzGFgZGBmYGJgZWIAsBiAbBhEAJA5XAQA=)
+  last-modified (1561905281269)
+}
+train (t-bpxxc5yvmwebdis1p82yjqtuk) {
+  utterance ([g:GetNumOfStation:continue:Results]몇 정거장 떨어져있어?)
+  plan (Y2BiUE4qLU6q1AOSaZl5KalFen6luf5pwSWJJZn5efFBqcWlOSUM8uiK3FNLkNUxMAIhAxQDSQA=)
+  last-modified (1561905283599)
+}

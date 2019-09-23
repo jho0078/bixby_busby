@@ -1,0 +1,10 @@
+train (t-c8u111ncjcwas0o95yxnj8flp) {
+  utterance ("[g:Results] (죽전역 수지 레스피아 죽전2동 주민센터 신세계 경기점)[v:Origin] 정류소에서 출발해서 (중앙공원)[v:Destination]에 도착하는 (720-4)[v:BusNumber]번 버스가 언제 도착합니까")
+  plan (Y2BlEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLGKTRpVxSi0sy8xJLMvPzGMTQJf2LMtMz8xhYGBgZmBiYgTQDkAWBMAASg8oBAA==)
+  last-modified (1561905284097)
+}
+train (t-chavau6w2p1fine0vw7hj2msu) {
+  utterance ("[g:Results] (수운회관)[v:Origin]에서 출발하고 (종각역YMCA)[v:Destination]으로 가는 (종로 01)[v:BusNumber]번이랑 (종로 02)[v:BusNumber]번 버스 시간 알려줘")
+  plan (Y2BnEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLyJSSRpdySS0uycxLLMnMz2MQQ5f0L8pMz8xjYGNgZGBiYGZgYWAFshnAPCYgCYIMDDxACAGsQAxXBQA=)
+  last-modified (1561905284620)
+}
