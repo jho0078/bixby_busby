@@ -72,9 +72,9 @@
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/46305309/65411844-e0051b80-de28-11e9-84ab-05d563efef6f.jpg" alt="busby5" width="40%"/>
+<img src="https://user-images.githubusercontent.com/46305309/65411844-e0051b80-de28-11e9-84ab-05d563efef6f.jpg" alt="busby5" width="40%" style="display: inline;"/>
 
-<img src="https://user-images.githubusercontent.com/46305309/65411845-e2677580-de28-11e9-929f-d01a02af7256.jpg" alt="busby6" width="40%"/>
+<img src="https://user-images.githubusercontent.com/46305309/65411845-e2677580-de28-11e9-929f-d01a02af7256.jpg" alt="busby6" width="40%" style="display: inline;"/>
 
-<img src="https://user-images.githubusercontent.com/46305309/65412027-53a72880-de29-11e9-8bb9-7501aaa5c747.jpg" alt="busby7" width="40%"/>
+<img src="https://user-images.githubusercontent.com/46305309/65412027-53a72880-de29-11e9-8bb9-7501aaa5c747.jpg" alt="busby7" width="40%" style="display: inline;"/>
 
