@@ -36,7 +36,7 @@
 
 * 가장 빨리 도착예정인 버스 순서대로 정렬하여 결과 제공
 
-<img src="https://user-images.githubusercontent.com/46305309/65411335-8cde9900-de27-11e9-810b-fc71a32b09b5.jpg" alt="busby3" style="zoom:25%;" />
+<img src="https://user-images.githubusercontent.com/46305309/65411335-8cde9900-de27-11e9-810b-fc71a32b09b5.jpg" alt="busby3" style="width:25%;" />
 
 <br>
 
