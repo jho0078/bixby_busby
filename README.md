@@ -28,7 +28,7 @@
 
     
 
-<img src="https://user-images.githubusercontent.com/46305309/65409667-3ff8c380-de23-11e9-91be-3cf188a169c2.jpg" alt="busby1" style="width:25;" />
+<img src="https://user-images.githubusercontent.com/46305309/65409667-3ff8c380-de23-11e9-91be-3cf188a169c2.jpg" alt="busby1" style="width:25px;" />
 
 <br>
   
