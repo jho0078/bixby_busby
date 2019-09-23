@@ -36,7 +36,7 @@
 
 * 가장 빨리 도착예정인 버스 순서대로 정렬하여 결과 제공
 
-<img src="https://user-images.githubusercontent.com/46305309/65411335-8cde9900-de27-11e9-810b-fc71a32b09b5.jpg" alt="busby3" style="width:25%;" />
+<img src="https://user-images.githubusercontent.com/46305309/65411335-8cde9900-de27-11e9-810b-fc71a32b09b5.jpg" alt="busby3" width="40%"/>
 
 <br>
 
@@ -44,7 +44,7 @@
 
 * 출발 정류장에 도착예정인 모든 버스의 도착정보 제공
 
-<img src="https://user-images.githubusercontent.com/46305309/65411372-a97ad100-de27-11e9-8dfe-73cd7239519a.jpg" alt="busby2" style="zoom:25%;" />
+<img src="https://user-images.githubusercontent.com/46305309/65411372-a97ad100-de27-11e9-8dfe-73cd7239519a.jpg" alt="busby2" width="40%" />
   
 <br>
 
@@ -52,7 +52,7 @@
 
 * 버스마다 출발 정류장에서 도착 정류장까지 몇 정거장 걸리는지 정거장 수 제공 
 
-<img src="https://user-images.githubusercontent.com/46305309/65411397-bc8da100-de27-11e9-8f99-3c9dc2861a6d.jpg" alt="busby4" style="zoom:25%;" />
+<img src="https://user-images.githubusercontent.com/46305309/65411397-bc8da100-de27-11e9-8f99-3c9dc2861a6d.jpg" alt="busby4" width="40%"/>
 
 <br>
   
@@ -72,9 +72,9 @@
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/46305309/65411844-e0051b80-de28-11e9-84ab-05d563efef6f.jpg" alt="busby5" style="zoom:25%;" />
+<img src="https://user-images.githubusercontent.com/46305309/65411844-e0051b80-de28-11e9-84ab-05d563efef6f.jpg" alt="busby5" width="40%"/>
 
-<img src="https://user-images.githubusercontent.com/46305309/65411845-e2677580-de28-11e9-929f-d01a02af7256.jpg" alt="busby6" style="zoom:25%;" />
+<img src="https://user-images.githubusercontent.com/46305309/65411845-e2677580-de28-11e9-929f-d01a02af7256.jpg" alt="busby6" width="40%"/>
 
-<img src="https://user-images.githubusercontent.com/46305309/65412027-53a72880-de29-11e9-8bb9-7501aaa5c747.jpg" alt="busby7" style="zoom:25%;" />
+<img src="https://user-images.githubusercontent.com/46305309/65412027-53a72880-de29-11e9-8bb9-7501aaa5c747.jpg" alt="busby7" width="40%"/>
 
