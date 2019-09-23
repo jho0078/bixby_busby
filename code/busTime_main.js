@@ -1,7 +1,7 @@
 module.exports.function = function main (origin, destination, busNumber,lowTag, point) {
   
   let results
-  if(true){
+  if(point.locality == "서울특별시"){
     const seoul = require("./busTime_seoul")
     results = seoul.function(origin, destination, busNumber, lowTag)
   }else if(point.levelOne && point.levelOne.name == "경기도" ){
